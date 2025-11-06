@@ -1,0 +1,9 @@
+2025-11-06T10:34:40,133 - /127.0.0.1:64264 "POST /models?url=aesthetic_v2_5.mar&model_name=aesthetic_v2_5&initial_workers=1 HTTP/1.1" 400 2
+2025-11-06T10:35:12,793 - /127.0.0.1:64430 "POST /predictions/aesthetic_v2_5 HTTP/1.1" 400 1
+2025-11-06T10:36:09,641 - /127.0.0.1:64712 "POST /models?url=aesthetic_v2_5.mar&model_name=aesthetic_v2_5&initial_workers=1 HTTP/1.1" 405 2
+2025-11-06T10:37:34,759 - /127.0.0.1:65137 "POST /models?url=aesthetic_v2_5.mar&model_name=aesthetic_v2_5&initial_workers=1 HTTP/1.1" 400 2
+2025-11-06T10:38:03,589 - /127.0.0.1:65275 "POST /models?url=aesthetic_v2_5.mar&model_name=aesthetic_v2_5&initial_workers=1 HTTP/1.1" 405 3
+2025-11-06T10:40:57,959 - /127.0.0.1:49916 "POST /predictions/aesthetic_v2_5 HTTP/1.1" 400 2
+2025-11-06T10:45:21,072 - /127.0.0.1:51258 "POST /predictions/aesthetic_v2_5 HTTP/1.1" 400 2
+2025-11-06T10:46:43,241 - /127.0.0.1:51656 "POST /predictions/aesthetic_v2_5 HTTP/1.1" 200 5578
+2025-11-06T10:46:52,667 - /127.0.0.1:51726 "POST /predictions/aesthetic_v2_5 HTTP/1.1" 200 3391

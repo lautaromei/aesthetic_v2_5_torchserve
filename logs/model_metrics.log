@@ -1,0 +1,4 @@
+2025-11-06T10:46:43,238 - HandlerTime.ms:5551.1|#ModelName:aesthetic_v2_5,Level:Model|#hostname:MacBook-Pro-de-Lautaro.local,requestID:47e11c05-bfd2-4bf8-8c88-7a91ca42d169,timestamp:1762436803
+2025-11-06T10:46:43,238 - PredictionTime.ms:5553.7|#ModelName:aesthetic_v2_5,Level:Model|#hostname:MacBook-Pro-de-Lautaro.local,requestID:47e11c05-bfd2-4bf8-8c88-7a91ca42d169,timestamp:1762436803
+2025-11-06T10:46:52,666 - HandlerTime.ms:3369.21|#ModelName:aesthetic_v2_5,Level:Model|#hostname:MacBook-Pro-de-Lautaro.local,requestID:f3076f5c-f013-4c9d-b417-da2ec0735b79,timestamp:1762436812
+2025-11-06T10:46:52,667 - PredictionTime.ms:3370.18|#ModelName:aesthetic_v2_5,Level:Model|#hostname:MacBook-Pro-de-Lautaro.local,requestID:f3076f5c-f013-4c9d-b417-da2ec0735b79,timestamp:1762436812
